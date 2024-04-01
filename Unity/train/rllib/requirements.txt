@@ -1,6 +1,11 @@
 wheel
+torch
+ray[rllib]
 nvidia-pyindex
 onnx
+onnx-graphsurgeon
+onnx2torch
+mlagents_envs
 torch
 rllib
 protobuf==3.20.*

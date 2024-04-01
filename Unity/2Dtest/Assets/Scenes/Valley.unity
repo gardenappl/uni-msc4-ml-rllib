@@ -664,7 +664,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07db603b5f6b759419b2cc6622f0973c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  modelAsset: {fileID: 5022602860645237092, guid: 5df6ca3f186cf1c4ea190308fb51dc98, type: 3}
+  modelAsset: {fileID: 5022602860645237092, guid: 8aa3bfd3e2650fdf6bd30d7a506edbc2, type: 3}
   AgentPrefab: {fileID: 7968814078132465469, guid: 70bb56b46bb84a44e91cb15eee409246, type: 3}
   deterministicInference: 0
 --- !u!1660057539 &9223372036854775807
